@@ -26,6 +26,7 @@ In this project, the Arduino controls each segment individually by providing a H
  # CIRCUIT DIAGRAM
  <img width="1012" height="629" alt="Screenshot 2025-08-22 213625" src="https://github.com/user-attachments/assets/4a3bcc1a-0aa7-443d-97e0-d9ebdf5acbde" />
 # PROGRAM:
+
 ```
 int a = 2;
 int b = 3;
@@ -55,6 +56,7 @@ void loop() {
   digitalWrite(f, LOW);
   digitalWrite(g, HIGH);
 }
+
 ```
 # OUTPUT:
 <img width="948" height="490" alt="Screenshot 2025-08-22 115150" src="https://github.com/user-attachments/assets/8bc8ded7-8c53-454f-8c43-0502a448626e" />
